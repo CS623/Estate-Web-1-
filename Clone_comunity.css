@@ -1,0 +1,26 @@
+header {
+  display: flex;
+}
+.title {
+  margin: 5px;
+  padding: 3px;
+  margin-left: 10px;
+}
+.main_menu_container {
+  width: 25%;
+  margin: 5px;
+  margin-left: 10px;
+  padding: 3px;
+  border: 1px solid black;
+  display: flex;
+}
+.elemantal {
+  margin: 5px;
+  padding: 3px;
+  margin-left: 10px;
+  font-size: 20px;
+  align-items: center;
+}
+.container {
+  width: 1fr;
+}
